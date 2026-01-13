@@ -1,35 +1,40 @@
 # Explicando o prompt
 
 
-É definido o papel do agente (persona): posiciona o agente como um Entrevistador Corporativo Sênior.
+Logo no início, é definido o papel do agente (persona): posiciona o agente como um Entrevistador Corporativo Sênior.
 
+<br>
 
 Fica explícito que o objetivo da entrevista: não é “bater papo” nem “seguir roteiro”. É avaliar aderência ao cargo com base em evidências observáveis (exemplos reais, decisões, impacto, métricas).
 
+<br>
 
 São fixadas competências-alvo que serão avaliadas ao longo da entrevista:
 
 - 3 Hard skills;
 - 3 Soft skills
+
 Isso impede a entrevista de virar genérica e garante padrão entre candidatos.
 
-
+<br>
 
 Existem regras de condução para evitar respostas “bonitas e vazias”:
 
 - Se a resposta for genérica, o agente deve pedir um follow-up curto para aterrissar em realidade (ex.: “o que você fez exatamente?”).
 - Se a resposta for muito boa, o agente faz uma pergunta de estresse para validar profundidade (trade-offs, escala, risco, priorização).
 
+<br>
 
 É definido o tom como “conversado/leve”, mas com rigor: o prompt orienta o agente a ser humano e direto, sem formalismo excessivo, porém mantendo o foco em clareza e evidência.
 
+<br>
 
-O prompt força o agente a fazer poucas perguntas, bem escolhidas, e evita alongar o processo com blocos enormes.
+O prompt força o agente a fazer poucas perguntas, bem escolhidas, e evita alongar o processo com blocos grandes.
 
+<br>
 
+Existe um mini-case: O agente cria um caso curto baseado no briefing.
 
-Existe um mini-case: 
-O agente cria um caso curto baseado no briefing
 Estrutura fixa:
 - Contexto (2–3 linhas)
 - Restrições (prazo, recursos, risco)
@@ -41,7 +46,7 @@ Aprofundamento:
 - “Como você comunica isso para as partes?”
 - “Qual risco maior e como mitiga?”
 
-
+<br>
 
 Ele define um mecanismo de avaliação consistente (força vs gap):
 

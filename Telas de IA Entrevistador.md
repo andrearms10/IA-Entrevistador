@@ -106,3 +106,28 @@ Ele transforma entrevista em desenvolvimento (não só julgamento): a parte de c
 <br>
 <br>
 
+** TESTANDO CONHECIMENTO - HARD SKILL**
+<br>
+<img width="834" height="488" alt="image" src="https://github.com/user-attachments/assets/2259196e-99f8-4b9c-9626-d448aea2d6e1" />
+<br>
+<br>
+<br>
+
+**VALIDAÇÃO**
+<br>
+<img width="780" height="328" alt="image" src="https://github.com/user-attachments/assets/15ec7a73-2026-49f1-90f0-0323be1fe070" />
+<br>
+<br>
+<br>
+
+**TESTANDO CONHECIMENTO - HARD SKILL**
+<br>
+<img width="794" height="489" alt="image" src="https://github.com/user-attachments/assets/8bf7451d-36e9-431f-a6f2-472cf047407e" />
+<br>
+<br>
+<br>
+
+**TESTANDO CONHECIMENTO - SOFT SKILL**
+<br>
+<img width="623" height="352" alt="image" src="https://github.com/user-attachments/assets/479b2573-7aa7-4650-81e1-63068ab72a8d" />
+

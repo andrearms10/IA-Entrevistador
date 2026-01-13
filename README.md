@@ -17,5 +17,10 @@ Projeto realizado no bootcamp DIO - Caixa Inteligência Artificial na Prática
 <br>
 <br>
 <img width="444" height="339" alt="image" src="https://github.com/user-attachments/assets/7f547c77-7724-47c6-a774-4fb2e7a352f7" />
+<br>
+<br>
+<br>
 
-
+**AQUECIMENTO**
+<br>
+<img width="645" height="231" alt="image" src="https://github.com/user-attachments/assets/d852857f-87d4-4f68-95de-4497ba2400f4" />

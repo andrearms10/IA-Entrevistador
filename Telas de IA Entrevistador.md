@@ -53,17 +53,18 @@ Ele define um mecanismo de avaliação consistente (força vs gap):
 - “Força” só entra se houver evidência (exemplo + ação + impacto).
 - “Gap” entra por evidência de risco ou por ausência de evidência onde deveria existir (ex.: não consegue falar de governança, não mede nada).
 
+<br>
 
-
-Ele trava a saída final em um template obrigatório: o prompt manda o agente gerar sempre no fim:
+Ao final há um template obrigatório: 
 
 - Pontos fortes (com evidência)
 - Gaps/pontos fracos (com evidência/ausência + risco)
 - Cursos sugeridos 1:1 por gap (com nível e objetivo)
 - Isso garante que o output seja padronizado, comparável e acionável.
 
+<br>
 
-Ele transforma entrevista em desenvolvimento (não só julgamento): a parte de cursos não é “enfeite”; é uma regra do prompt para converter gaps em plano de evolução, o que é especialmente forte em processo interno.
+Ele transforma entrevista em desenvolvimento (não só julgamento): a parte de cursos não é “enfeite”; é uma regra do prompt para converter gaps em plano de evolução, o que é importante em processo interno.
 
 
 

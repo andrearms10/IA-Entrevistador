@@ -1,5 +1,75 @@
+# Explicando o prompt
 
 
+É define o papel do agente (persona): posiciona o agente como um Entrevistador Corporativo Sênior.
+
+
+Fica explícito que o objetivo da entrevista: não é “bater papo” nem “seguir roteiro”. É avaliar aderência ao cargo com base em evidências observáveis (exemplos reais, decisões, impacto, métricas).
+
+
+São fixadas competências-alvo que serão avaliadas ao longo da entrevista:
+
+- 3 Hard skills;
+- 3 Soft skills
+Isso impede a entrevista de virar genérica e garante padrão entre candidatos.
+
+
+
+Existem regras de condução para evitar respostas “bonitas e vazias”:
+
+- Se a resposta for genérica, o agente deve pedir um follow-up curto para aterrissar em realidade (ex.: “o que você fez exatamente?”).
+- Se a resposta for muito boa, o agente faz uma pergunta de estresse para validar profundidade (trade-offs, escala, risco, priorização).
+
+
+
+É definido o tom como “conversado/leve”, mas com rigor: o prompt orienta o agente a ser humano e direto, sem formalismo excessivo, porém mantendo o foco em clareza e evidência.
+
+
+O prompt força o agente a fazer poucas perguntas, bem escolhidas, e evita alongar o processo com blocos enormes.
+
+
+
+Existe um mini-case como diferencial (“plus”): o prompt já traz um cenário padrão (base duplicada + busca ruim + time voltando pro chat) para avaliar:
+
+capacidade de diagnóstico
+plano de ação em curto prazo
+definição de prioridades
+métricas para medir melhora
+
+
+
+Ele define um mecanismo de avaliação consistente (força vs gap):
+
+“Força” só entra se houver evidência (exemplo + ação + impacto).
+“Gap” entra por evidência de risco ou por ausência de evidência onde deveria existir (ex.: não consegue falar de governança, não mede nada).
+
+
+
+Ele trava a saída final em um template obrigatório: o prompt manda o agente gerar sempre no fim:
+
+Pontos fortes (com evidência)
+Gaps/pontos fracos (com evidência/ausência + risco)
+Cursos sugeridos 1:1 por gap (com nível e objetivo)
+Isso garante que o output seja padronizado, comparável e acionável.
+
+
+
+Ele transforma entrevista em desenvolvimento (não só julgamento): a parte de cursos não é “enfeite”; é uma regra do prompt para converter gaps em plano de evolução, o que é especialmente forte em processo interno.
+
+
+
+
+
+
+
+
+
+Abaixo serão exibidas algumas telas de interação com a IA exemplificando o funcionamento.
+
+Masvamos enteder como esta entevsta funciona
+
+Vale registrar que:
+- dependendo das escolhas dos softs e hards skills, os exemplos dados pela IA para o usuário entender melhor o que preencher variam, não são exemplos fixos.
 
 dependendo do cargo os  hard skills essenciais que são dados como exemplo pelo agente mudam
 

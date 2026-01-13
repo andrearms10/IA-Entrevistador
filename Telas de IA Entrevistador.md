@@ -66,41 +66,19 @@ Ao final há um template obrigatório:
 
 Ele transforma entrevista em desenvolvimento (não só julgamento): a parte de cursos não é “enfeite”; é uma regra do prompt para converter gaps em plano de evolução, o que é importante em processo interno.
 
-
-
-
-
-
-
-
-
-Abaixo serão exibidas algumas telas de interação com a IA exemplificando o funcionamento.
-
-Masvamos enteder como esta entevsta funciona
-
-Vale registrar que:
-- dependendo das escolhas dos softs e hards skills, os exemplos dados pela IA para o usuário entender melhor o que preencher variam, não são exemplos fixos.
-
-dependendo do cargo os  hard skills essenciais que são dados como exemplo pelo agente mudam
-
-ele solicita 3 hard skills eu dei 2 e elsolicitou o 3o
-
-
-
-
+<br>
 
 
 ## Telas
 <br>
 **BRIENFING**
 <br>
-<br>
-<img width="467" height="359" alt="image" src="https://github.com/user-attachments/assets/93100628-4c70-4bed-9c83-a0ddb7093ecc" />
-<br>
+<img width="782" height="543" alt="image" src="https://github.com/user-attachments/assets/4df154d8-969d-4fcf-bae2-254a67eb55ce" />
 <br>
 <br>
+<br>
+
 **ABERTURA**
-<br>
 <br>
 <img width="444" height="339" alt="image" src="https://github.com/user-attachments/assets/7f547c77-7724-47c6-a774-4fb2e7a352f7" />
 <br>
@@ -110,3 +88,21 @@ ele solicita 3 hard skills eu dei 2 e elsolicitou o 3o
 **AQUECIMENTO**
 <br>
 <img width="645" height="231" alt="image" src="https://github.com/user-attachments/assets/d852857f-87d4-4f68-95de-4497ba2400f4" />
+<br>
+<br>
+<br>
+
+**TRADE-OFF e RISCO**
+<br>
+<img width="785" height="409" alt="image" src="https://github.com/user-attachments/assets/eaed09a5-ff08-46bf-a0e3-6487aa9bf659" />
+<br>
+<br>
+<br>
+
+**APROFUNDAMENTO**
+<br>
+<img width="753" height="331" alt="image" src="https://github.com/user-attachments/assets/c220bf7b-573d-4b23-8414-63f73d45b3b3" />
+<br>
+<br>
+<br>
+

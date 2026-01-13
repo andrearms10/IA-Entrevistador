@@ -1,3 +1,15 @@
+
+
+
+dependendo do cargo os  hard skills essenciais que são dados como exemplo pelo agente mudam
+
+ele solicita 3 hard skills eu dei 2 e elsolicitou o 3o
+
+
+
+
+
+
 ## Telas
 <br>
 **BRIENFING**

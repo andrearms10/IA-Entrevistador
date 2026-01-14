@@ -35,7 +35,9 @@ A criação do agente, testes e ajustes foram realizados na plataforma Adapta e 
 
 ### 🎯 Resultado
 
-O resultado desejado, que era ter um agente entrevistador que possuia uma liberdade para criar perguntas relacionadas aos soft skill, hard skill,ummine-case baseado no briefing, quandoo entrevistadoeraraso na resposta, oagente fazia novas perguntas para verificar o checimento
+O resultado desejado, que era ter um agente entrevistador que possuia uma liberdade para criar perguntas relacionadas aos soft skill, hard skill, um mine-case baseado no briefing, e quando o entrevistado era raso na resposta, o agente fazia novas perguntas para verificar o conhecimento. Bem,isso tudo foi alcançado dentre outras autonomias, sem ser prolixo e deixar a entrevista entediante.
+
+
 
 O resultado pode ser conferido em:
 - [Agente Entrevistador e Planejador de Carreira TECH](https://github.com/andrearms10/copilot-prompts/blob/main/ONE%20-%20Entrevistador%20e%20Planejador%20de%20Carreira%20v3)

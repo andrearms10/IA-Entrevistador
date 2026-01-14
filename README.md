@@ -40,7 +40,7 @@ O resultado desejado, que era ter um agente entrevistador que possuia uma liberd
 
 
 O resultado pode ser conferido em:
-- [Agente Entrevistador e Planejador de Carreira TECH](https://github.com/andrearms10/copilot-prompts/blob/main/ONE%20-%20Entrevistador%20e%20Planejador%20de%20Carreira%20v3)
+- [Agente IA Entrevistador](prompt IA Entrevistador)
 
 
 

@@ -41,7 +41,7 @@ O resultado desejado, que era ter um agente entrevistador que possuia uma liberd
 
 O resultado pode ser conferido em:
 - [Prompt IA Entrevistador](https://github.com/andrearms10/IA-Entrevistador/blob/main/prompt%20IA%20Entrevistador)
-- [Explicação e telasdo Agente]()
+- [Explicação e telas do Agente](http://github.com/andrearms10/IA-Entrevistador/blob/main/Explicacao%20e%20telas.md)
 
 
 

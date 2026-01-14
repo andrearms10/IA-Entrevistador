@@ -7,7 +7,9 @@ Projeto realizado no bootcamp DIO - Caixa Inteligência Artificial na Prática
 
 Este trabalho é um **Desafio de Projeto** do bootcamp **CAIXA — Inteligência Artificial na Prática**, com o tema **“IA Entrevistador: Seu Simulador Inteligente de Entrevistas”**.
 
-Como o desafio não especificava claramente qual caminho seguir na execução, defini como objetivo criar um agente entrevistador para processo seletivo interno (PSI) para empresas.
+Como o desafio não especificava claramente qual caminho seguir na execução, defini como objetivo criar um agente entrevistador para processo seletivo interno (PSI) para empresas. 
+
+Mas esse agente tem liberdade de criar perguntas baseadas no briefing recebido, tem autonomia de validar o conhecimento do entrevistado quando a resposta é rasa ou insuficiente, ele gera um relatório final, cria uma proposta de cursos baseada nos pontos fracos,dentre outras autonomias.
 <br>
 <br>
 
@@ -27,15 +29,13 @@ Como o desafio não especificava claramente qual caminho seguir na execução, d
 
 ### 🛠️ Desenvolvimento
 
-Ao juntar os dois prompts dos agentes 1 e 2 foram necessários ajustes no prompt único, adequando a integração e permitindo que a entrevista e o planejamento de carreira acontecessem de forma fluida em um único chat.
-
-Ao longo das adequações testes eram realizados na **Adapta, Chat GPT, Manus e Copilot** para verificar a performance do novo prompt.
+A criação do agente, testes e ajustes foram realizados na plataforma Adapta e no Copilot também foram realizados ajustes e testes para verificar a performance. Nas duas plataformas o agente oi muito assertivo nas perguntas.
 
 <br>
 
 ### 🎯 Resultado
 
-O resultado desejado, que era **ter um único Agente (entrevistador e planejador)** e não ter a necessidade de copiar a saída do agent 1 e colar como dado de entrada para o agent 2 foi conseguida.
+O resultado desejado, que era ter um agente entrevistador que possuia uma liberdade para criar perguntas relacionadas aos soft skill, hard skill,ummine-case baseado no briefing, quandoo entrevistadoeraraso na resposta, oagente fazia novas perguntas para verificar o checimento
 
 O resultado pode ser conferido em:
 - [Agente Entrevistador e Planejador de Carreira TECH](https://github.com/andrearms10/copilot-prompts/blob/main/ONE%20-%20Entrevistador%20e%20Planejador%20de%20Carreira%20v3)

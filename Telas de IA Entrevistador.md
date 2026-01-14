@@ -106,7 +106,7 @@ Ele transforma entrevista em desenvolvimento (não só julgamento): a parte de c
 <br>
 <br>
 
-** TESTANDO CONHECIMENTO - HARD SKILL**
+**TESTANDO CONHECIMENTO - HARD SKILL**
 <br>
 <img width="834" height="488" alt="image" src="https://github.com/user-attachments/assets/2259196e-99f8-4b9c-9626-d448aea2d6e1" />
 <br>

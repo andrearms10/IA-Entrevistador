@@ -130,4 +130,26 @@ Ele transforma entrevista em desenvolvimento (não só julgamento): a parte de c
 **TESTANDO CONHECIMENTO - SOFT SKILL**
 <br>
 <img width="623" height="352" alt="image" src="https://github.com/user-attachments/assets/479b2573-7aa7-4650-81e1-63068ab72a8d" />
+<br>
+<br>
+<br>
+
+**MINI-CASE**
+<br>
+<img width="758" height="582" alt="image" src="https://github.com/user-attachments/assets/9a8661a3-38bc-496e-9c4f-eddb0a519545" />
+<br>
+<br>
+<br>
+
+**RELATÓRO FINAL**
+<br>
+<img width="751" height="287" alt="image" src="https://github.com/user-attachments/assets/62e68409-95be-4ec9-8c5f-8935f11aca3a" />
+<img width="815" height="644" alt="image" src="https://github.com/user-attachments/assets/572dfe3b-521d-4928-9f3a-e7cfd32e20b6" />
+<br>
+<br>
+<br>
+
+**CURSOS SUGERIDOS COM BASE NOS PONTOS-FRACOS  E RECOMENDAÇÃO FINAL**
+<br>
+<img width="828" height="606" alt="image" src="https://github.com/user-attachments/assets/6d43840e-7d79-44ae-8a1c-87a00db0f0e9" />
 

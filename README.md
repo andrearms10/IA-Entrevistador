@@ -5,34 +5,17 @@ Projeto realizado no bootcamp DIO - Caixa Inteligência Artificial na Prática
 
 ### 💻 Sobre o Projeto
 
-Este trabalho é um **Desafio de Projeto** do bootcamp **CAIXA — Inteligência Artificial na Prática**, com o tema **“
-IA Entrevistador: Seu Simulador Inteligente de Entrevistas”**.
+Este trabalho é um **Desafio de Projeto** do bootcamp **CAIXA — Inteligência Artificial na Prática**, com o tema **“IA Entrevistador: Seu Simulador Inteligente de Entrevistas”**.
 
-- **Agente 1 — Entrevistador**
-- **Agente 2 — Planejador de Carreira Tech**
-  
-A dinâmica funcionava assim:
-
-O Agente 1 fazia sete perguntas para identificar o perfil do usuário na área de tecnologia.
-
-As respostas eram copiadas do chat e coladas em um segundo chat, do Agente 2.
-
-O Agente 2 analisava as respostas, gerava três sugestões de carreira em tech e pedia que o usuário escolhesse uma delas.
-
-Com a escolha definida, o agente criava um roadmap de 90 dias para orientar os próximos passos do usuário.
-
-Como o desafio não especificava claramente qual caminho seguir na execução, defini como objetivo unificar os dois agentes em um único — eliminando a necessidade de usar dois chats e de transferir manualmente as informações de um para o outro. Assim, todo o processo passa a acontecer do início ao fim em um único chat e com um único agente
-
+Como o desafio não especificava claramente qual caminho seguir na execução, defini como objetivo criar um agente entrevistador para processo seletivo interno (PSI) para empresas.
 <br>
 
 ### 📚 Ferramentas utilizadas
 
 - GitHub
-- ChatGPT
-- Manus
-- Copilot
+- Copilot - testes do agente com diversos cargos 
 - Plataforma Adapta
-    - ###### Os testes com os prompts deste projeto também foram realizados na Adapta, uma plataforma de inteligência artificial que opera com uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e a interface com o usuário.
+    - ###### A criação do agente e testes deste projeto também foram realizados na Adapta, uma plataforma de inteligência artificial que opera com uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e a interface com o usuário.
 
     - ###### Nos bastidores, a ONE atua como uma “maestrina”, conectando-se a um ecossistema de modelos e ferramentas, como Claude, Gemini, DeepSeek, Grok, Perplexity e soluções especializadas em imagem, como Nano Banana e GPT Image.
 
